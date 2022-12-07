@@ -1,4 +1,4 @@
-Haskell Curry
+Haskel2Curry
 
 I`Am curry ok
 
